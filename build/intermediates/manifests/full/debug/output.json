@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":7211,"versionName":"0.1","enabled":true,"outputFile":"ipv8-android-app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.ipv8.android","split":"","minSdkVersion":"21"}}]
