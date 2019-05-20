@@ -39,8 +39,8 @@
                  android:allowBackup="true"
                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
                  android:hardwareAccelerated="true" >
-
-
+        
+        
         <meta-data android:name="wakelock" android:value="0"/>
 
         <activity android:name="org.kivy.android.PythonActivity"

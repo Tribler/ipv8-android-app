@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 20 13:26:59 CEST 2019
+#Mon May 20 17:00:17 CEST 2019
 4.path=classes.dex
 8.set=NATIVE_RESOURCE
 6.path=lib/armeabi-v7a/libmain.so
