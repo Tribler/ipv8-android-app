@@ -1,4 +1,4 @@
-#Mon May 20 17:00:17 CEST 2019
+#Tue May 21 16:34:52 CEST 2019
 base.0=C\:\\Users\\goqs\\Documents\\ipv8-android-app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
