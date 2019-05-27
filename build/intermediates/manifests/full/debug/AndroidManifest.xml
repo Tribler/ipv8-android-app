@@ -15,7 +15,6 @@
         android:smallScreens="true"
         android:xlargeScreens="true" />
 
-    <uses-permission android:name="android.permission.INTERNET" />
     <!-- Set permissions -->
     <!--
  Create a Java class extending SDLActivity and place it in a
